@@ -1,7 +1,7 @@
 ### Hi there, I'm Bruno Drumond! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--- Brief description ---> 
-- BSc in Informatics and Computing Engineering (year 2/3) [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial). <br />
+- BSc in Informatics and Computing Engineering (year 2/3) [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial). <br/>
 - My primary interest lies in the field of cyber security (learning and growing one CTF at a time). <br />
 - Always up to something!
 
@@ -52,9 +52,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsDrumond&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsDrumond&layout=compact&theme=vue-dark&hide_border=true" />
 </div>
-<br />
+<br/>
 
 PS: I totally did not steal this README from [@Naapperas](https://github.com/Naapperas)!</br>
-
-
-https://github-readme-stats.vercel.app/api?username=ItsDrumond&count_private=true&theme=vue-dark&show_icons=true&hide_border=true
