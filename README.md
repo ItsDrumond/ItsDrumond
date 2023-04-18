@@ -51,5 +51,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsDrumond&count_private=true&theme=vue-dark&show_icons=true&hide_border=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsDrumond&layout=compact&hide_border=true&theme=vue-dark&title_color=blue&exclude_repo=FEUP-LCOM" />
 </div>
+<br />
 
 PS: I totally did not steal this README from [@Naapperas](https://github.com/Naapperas)!</br>
