@@ -34,6 +34,7 @@
   <!--- Programming languages ---> 
   <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a">
@@ -42,7 +43,8 @@
   <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css3&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a">
   
 </p>
 
