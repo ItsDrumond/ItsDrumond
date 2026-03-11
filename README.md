@@ -1,7 +1,7 @@
 ### Hi there, I'm Bruno Drumond! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--- Brief description ---> 
-- Bachelor in Informatics and Computing Engineering (year 3/3) [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial). <br/>
+- Bachelor in Informatics and Computing Engineering [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial). <br/>
 - Mastering .NET and Angular at the moment.
 - Always up to something!
 
